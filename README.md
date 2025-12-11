@@ -26,9 +26,11 @@ These tiny shell-script driven apps allow you to launch **Writer**, **Calc**, **
 
 ## Installation
 
-Go to the [Releases](https://github.com/jtbrough/LibreOffice-Launchers/releases) page to download the latest `.zip` containing all the apps.
+Go to the [Releases](https://github.com/jtbrough/LibreOffice-Launchers-macOS/releases) page to download the latest `Release.zip` containing pre-built the apps.
 
 1. Download the `Release.zip`.
 2. Unzip it.
 3. Drag the `.app` files to your `~/Applications` folder (or wherever you prefer).
 4. Launch away.
+
+Or, clone/download the scripts and icons and use Platypus to create your own.
